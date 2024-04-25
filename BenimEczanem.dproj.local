@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="yen"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.838,D:\indirilenler\NetworkStateDemo\NetworkState.iOS.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=D:\indirilenler\NetworkStateDemo\NetworkState.iOS.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,D:\indirilenler\NetworkStateDemo\NetworkDurumu.dproj=D:\indirilenler\NetworkStateDemo\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,D:\indirilenler\NetworkStateDemo\NetworkState.Windows.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,D:\indirilenler\NetworkStateDemo\NetworkState.Android.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=D:\indirilenler\NetworkStateDemo\NetworkState.Android.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,=D:\indirilenler\NetworkStateDemo\NetworkState.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,C:\Users\OnurYalcinBagonu\Desktop\NetworkStateDemo\NetworkDurumu.dproj=C:\Users\OnurYalcinBagonu\Desktop\NetworkStateDemo\BenimEczanem.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,=D:\indirilenler\NetworkStateDemo\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,D:\indirilenler\NetworkStateDemo\Unit3.pas=D:\indirilenler\NetworkStateDemo\NetworkState.Windows.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,D:\indirilenler\NetworkStateDemo\NetworkState.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,=C:\Users\OnurYalcinBagonu\Desktop\NetworkStateDemo\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,=C:\Users\OnurYalcinBagonu\Desktop\NetworkStateDemo\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
